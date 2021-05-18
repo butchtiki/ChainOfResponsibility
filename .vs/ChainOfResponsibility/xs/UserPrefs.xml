@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{29FCD8D8-5009-4F3B-BA13-719225B19F77}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibility/HttpRequestHandler.cs">
+    <Files>
+      <File FileName="ChainOfResponsibilityTest/DefaultRequestHandler.test.cs" Line="80" Column="1" />
+      <File FileName="ChainOfResponsibility/JsonRequestHandler.cs" />
+      <File FileName="ChainOfResponsibility/BaseRequestHandler.cs" />
+      <File FileName="ChainOfResponsibilityTest/BaseRequestHandler.test.cs" />
+      <File FileName="ChainOfResponsibility/Program.cs" />
+      <File FileName="ChainOfResponsibility/RequestParser.cs" />
+      <File FileName="ChainOfResponsibility/HttpRequestHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="HttpRequestHandler.cs" selected="True" />
+            </Node>
+            <Node name="ChainOfResponsibilityTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
